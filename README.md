@@ -37,9 +37,9 @@ The client requested a dashboard for event insights, but instead of selecting pr
    ```
 5. **API key setup**:
    Modify the .env file with your own API keys:
-    Get the GOOGLE_API_KEY from ``` https://ai.google.dev/gemini-api?gad_source=1&gclid=CjwKCAjwxY-3BhAuEiwAu7Y6szZeDDr_4U21aTgwJ2PixwX3UB99KYMDuKutWXB7Y5WdXSY_VW-xoBoC60kQAvD_BwE ```
-    Get the GROQ_API_KEY from ``` https://console.groq.com/keys ```
-    Get the LANGCHAIN_API_KEY from ``` https://docs.smith.langchain.com/how_to_guides/setup/create_account_api_key#api-keys ```
+    - Get the GOOGLE_API_KEY from ``` https://ai.google.dev/gemini-api?gad_source=1&gclid=CjwKCAjwxY-3BhAuEiwAu7Y6szZeDDr_4U21aTgwJ2PixwX3UB99KYMDuKutWXB7Y5WdXSY_VW-xoBoC60kQAvD_BwE ```
+    - Get the GROQ_API_KEY from ``` https://console.groq.com/keys ```
+    - Get the LANGCHAIN_API_KEY from ``` https://docs.smith.langchain.com/how_to_guides/setup/create_account_api_key#api-keys ```
 6. **Run the Webapp**:
    run the command to start the streamlit app
    ```bash
