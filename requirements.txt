@@ -1,0 +1,11 @@
+requests
+python-dotenv
+pandas
+streamlit
+pandasai
+langchain
+langchain-core
+langchain-groq
+langchain-community
+langchain-google-genai
+db-sqlite3
